@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "984454687422",
+    "firebase_url": "https://kiningo-8df4e-default-rtdb.firebaseio.com",
+    "project_id": "kiningo-8df4e",
+    "storage_bucket": "kiningo-8df4e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984454687422:android:1941f77e2f81feed7e8cef",
+        "android_client_info": {
+          "package_name": "com.kinengo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "984454687422-9ni133o7fu229fn2cg66f44tq9mlb0n1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBu1ZBVUsXdk8yBZnFixzMGIgVAhl15rNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "984454687422-9ni133o7fu229fn2cg66f44tq9mlb0n1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "984454687422-ccp3mdo0gn3gro8crmf7phlimrbr5hmk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.KinenGo"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984454687422:android:9f04b3d1205d77567e8cef",
+        "android_client_info": {
+          "package_name": "com.kinengodriver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "984454687422-9ni133o7fu229fn2cg66f44tq9mlb0n1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBu1ZBVUsXdk8yBZnFixzMGIgVAhl15rNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "984454687422-9ni133o7fu229fn2cg66f44tq9mlb0n1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "984454687422-ccp3mdo0gn3gro8crmf7phlimrbr5hmk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.KinenGo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
